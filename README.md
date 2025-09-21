@@ -1,5 +1,6 @@
-<!--Banner-->
+<!--
 ![Tejas Golhar Banner](./processor_banner.gif)
+-->
 
 ---
 <div>
@@ -8,7 +9,7 @@
     width="250"   
     height="250" 
     src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
-    style="margin-top:90px;"
+    style="margin-top:100px;"
   >
 </div>
 
@@ -36,9 +37,7 @@ I work on everything from low-level Verilog to complex DSP and embedded integrat
 <br>
 
 - ✨ Lifelong learner and hardware tinkerer  
-
 - 🌱 Currently exploring the boundaries of FPGA technology  
-
 - 💻 Visit my [GitHub](https://github.com/tejasgolhar2) for projects and experiments  
 
 <br>
