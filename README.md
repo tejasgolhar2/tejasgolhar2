@@ -1,9 +1,17 @@
 <!--Banner-->
 ![Tejas Golhar Banner](./processor_banner.gif)
 
+---
+
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img
+    align="right"
+    width="40%"
+    src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
+    style="margin-top:90px;"   
+  >
 </div>
+
 
 <!-- Add vertical spacing below the banner -->
 <br>
@@ -25,15 +33,15 @@
 I’m an FPGA and Digital Design Engineer with a deep love for hardware design, RTL development, and system-level debugging.  
 I work on everything from low-level Verilog to complex DSP and embedded integrations, always curious to push the boundaries of reconfigurable computing.
 </p>
+<br>
 
 - ✨ Lifelong learner and hardware tinkerer  
+
 - 🌱 Currently exploring the boundaries of FPGA technology  
-- 💻 Visit my [GitHub profile](https://github.com/tejasgolhar2) for projects and experiments  
+
+- 💻 Visit my [GitHub](https://github.com/tejasgolhar2) for projects and experiments  
 
 <br>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tejasgolhar2&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile views" />
-</p>
 
 ---
 
@@ -92,6 +100,17 @@ Xilinx XSim • Icarus Verilog • Verilator
 
 ---
 
+<div align="center" style="margin:20px 0;">
+  <img
+    src="https://komarev.com/ghpvc/?username=tejasgolhar2&label=Profile%20Views&style=for-the-badge&color=441350&logo=star"
+    alt="Profile views"
+  />
+</div>
+
+---
+
+
+
 <!--
 ## 📈 Contribution Graph
 <div align="center">
@@ -109,18 +128,26 @@ Xilinx XSim • Icarus Verilog • Verilator
 ## 🤝 Contacts
 <div align="center">
 
-<!-- Replace the placeholders with your actual contact info -->
-<a href="mailto:tejasgolhar2@gmail.com">
-  <img src="./gmail.png" width=50 height=50 alt="Email" style="margin-bottom: 5px;" />
-</a>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/tejasgolhar2">
-  <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
-</a>
+  <!-- Email -->
+  <a href="mailto:tejasgolhar2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-441350?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tejasgolhar2">
+    <img src="https://img.shields.io/badge/LinkedIn-441350?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/tejasgolhar2">
+    <img src="https://img.shields.io/badge/GitHub-441350?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Twitter -->
+  <a href="https://twitter.com/tejasgolhar2">
+    <img src="https://img.shields.io/badge/Twitter-441350?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-<a href="https://twitter.com/tejasgolhar2">
-  <img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
-</a>
 
 </div>
 
