@@ -9,7 +9,7 @@
     width="250"   
     height="250" 
     src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
-    style="margin-top:140px;"
+    style="margin-top: 200px;"
   >
 </div>
 
