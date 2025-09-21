@@ -1,5 +1,5 @@
 
-![Tejas Golhar Banner](./processor_banner.gif)
+![Tejas Golhar Banner](./processor.gif)
 <!--
 <div>
   <img
