@@ -2,16 +2,16 @@
 ![Tejas Golhar Banner](./processor_banner.gif)
 
 ---
-<!--
 <div>
   <img
     align="right"
-    width="40%"
+    width="250"   
+    height="250" 
     src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
-    style="margin-top:90px;"   
+    style="margin-top:90px;"
   >
 </div>
--->
+
 
 <!-- Add vertical spacing below the banner -->
 <br>
