@@ -5,7 +5,7 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  ɪ'ᴍ ᴛᴇᴊᴀs!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>    ɪ'ᴍ ᴛᴇᴊᴀs!
 *A passionate FPGA Design Engineer burning FPGAs to build a sustainable future*
 <br />
 
