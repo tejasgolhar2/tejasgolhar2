@@ -1,13 +1,25 @@
 <!--Banner-->
-![Tejas Golhar Banner](./processor.gif)
+![Tejas Golhar Banner](./processor_banner.gif)
 
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>    ɪ'ᴍ ᴛᴇᴊᴀs!
+<!-- Add vertical spacing below the banner -->
+<br>
+
+
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+&nbsp;&nbsp;&nbsp;
+<span style="font-size:2.5em; font-weight:bold;">ɪ'ᴍ ᴛᴇᴊᴀs!</span>
+
+
+<!-- Add spacing below the name/introduction line -->
+<br>
+
 *A passionate FPGA Design Engineer burning FPGAs to build a sustainable future*
-<br />
+
+<br>
 
 <p align="left">
 I’m an FPGA and Digital Design Engineer with a deep love for hardware design, RTL development, and system-level debugging.  
@@ -18,11 +30,13 @@ I work on everything from low-level Verilog to complex DSP and embedded integrat
 - 🌱 Currently exploring the boundaries of FPGA technology  
 - 💻 Visit my [GitHub profile](https://github.com/tejasgolhar2) for projects and experiments  
 
+<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tejasgolhar2&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile views" />
 </p>
 
 ---
+
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -78,6 +92,7 @@ Xilinx XSim • Icarus Verilog • Verilator
 
 ---
 
+<!--
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasgolhar2&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" />
@@ -89,10 +104,9 @@ Xilinx XSim • Icarus Verilog • Verilator
 <div align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Turing&quote=Those%20who%20can%20imagine%20anything%2C%20can%20create%20the%20impossible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" />
 </div>
+-->
 
----
-
-## 🤝 Connect with Me
+## 🤝 Contacts
 <div align="center">
 
 <!-- Replace the placeholders with your actual contact info -->
