@@ -2,7 +2,7 @@
 ![Tejas Golhar Banner](./processor_banner.gif)
 
 ---
-
+<!--
 <div>
   <img
     align="right"
@@ -11,7 +11,7 @@
     style="margin-top:90px;"   
   >
 </div>
-
+-->
 
 <!-- Add vertical spacing below the banner -->
 <br>
