@@ -1,6 +1,5 @@
 
-![Tejas Golhar Banner](./processor2.gif)
-<!--
+<!--  OWL IMAGE
 <div>
   <img
     align="right"
@@ -11,16 +10,11 @@
   >
 </div>
 
-
 -->
 
 ---
 
-
-<!-- Add vertical spacing below the banner -->
 <br>
-
-
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
        width="40"
@@ -47,7 +41,7 @@
 
 <br>
 
-<div align="left" style="display:inline-block; text-align:left;">
+<div align="center" style="display:inline-block; text-align:left;">
   <div style="display:flex; align-items:center; margin-bottom:6px;">
     <span style="width:2em; text-align:right;">🔧</span>
     <span>&nbsp;Lifelong learner and hardware tinkerer</span>
@@ -62,10 +56,16 @@
   </div>
 </div>
 
-
-
-
 <br>
+
+--- 
+<br>
+
+
+
+![Tejas Golhar Banner](./processor2.gif)
+
+
 
 ---
 
