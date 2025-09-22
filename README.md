@@ -21,9 +21,12 @@
 <br>
 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-&nbsp;&nbsp;&nbsp; 
-<span style="font-size:3em; font-weight:bold;">I'm TEJAS!</span>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+       width="40"
+       style="vertical-align:middle; margin-right:10px;">
+  I'm TEJAS!
+</h1>
 
 
 <!-- Add spacing below the name/introduction line -->
@@ -33,18 +36,37 @@
 
 <br>
 
-<p align="left">
-I’m an FPGA and Digital Design Engineer with a deep love for hardware design, RTL development, and system-level debugging.  
-I work on everything from low-level Verilog to complex DSP and embedded integrations, always curious to push the boundaries of reconfigurable computing.
+<p align="left" style="text-indent: 2em;">
+  I’m an FPGA and Digital Design Engineer with a deep love for hardware design, RTL development, and system-level debugging.
 </p>
+
+<p align="left" style="text-indent: 2em;">
+  I work on everything from low-level Verilog to complex DSP and embedded integrations, always curious to push the boundaries of reconfigurable computing.
+</p>
+
+
 <br>
 
-- ✨ Lifelong learner and hardware tinkerer  
+<div align="left">
+
+<table>
+  <tr>
+    <td align="right">🔧</td>
+    <td align="left">&nbsp;Lifelong learner and hardware tinkerer</td>
+  </tr>
+  <tr>
+    <td align="right">🚀</td>
+    <td align="left">&nbsp;Currently exploring the boundaries of FPGA technology</td>
+  </tr>
+  <tr>
+    <td align="right">💻</td>
+    <td align="left">&nbsp;Visit my <a href="https://github.com/tejasgolhar2">GitHub</a> for projects and experiments</td>
+  </tr>
+</table>
+
+</div>
 
 
-- 🌱 Currently exploring the boundaries of FPGA technology  
-
-- 💻 Visit my [GitHub](https://github.com/tejasgolhar2) for projects and experiments  
 
 <br>
 
