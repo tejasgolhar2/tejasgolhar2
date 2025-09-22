@@ -11,6 +11,8 @@
 </div>
 
 -->
+![Tejas Golhar Banner](./processor.gif)
+
 
 ---
 
@@ -41,7 +43,7 @@
 
 <br>
 
-<div align="center" style="display:inline-block; text-align:left;">
+<div align="left" style="display:inline-block; text-align:left;">
   <div style="display:flex; align-items:center; margin-bottom:6px;">
     <span style="width:2em; text-align:right;">🔧</span>
     <span>&nbsp;Lifelong learner and hardware tinkerer</span>
@@ -59,15 +61,6 @@
 <br>
 
 --- 
-<br>
-
-
-
-![Tejas Golhar Banner](./processor2.gif)
-
-
-
----
 
 
 ## 🛠️ Tech Stack
