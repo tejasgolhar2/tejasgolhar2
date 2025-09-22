@@ -39,7 +39,10 @@ I work on everything from low-level Verilog to complex DSP and embedded integrat
 <br>
 
 - ✨ Lifelong learner and hardware tinkerer  
+
+
 - 🌱 Currently exploring the boundaries of FPGA technology  
+
 - 💻 Visit my [GitHub](https://github.com/tejasgolhar2) for projects and experiments  
 
 <br>
