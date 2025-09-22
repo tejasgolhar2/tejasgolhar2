@@ -22,7 +22,8 @@
 
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-&nbsp;&nbsp;&nbsp; <span style="font-size:3em; font-weight:bold;">I'm TEJAS!</span>
+&nbsp;&nbsp;&nbsp; 
+<span style="font-size:3em; font-weight:bold;">I'm TEJAS!</span>
 
 
 <!-- Add spacing below the name/introduction line -->
