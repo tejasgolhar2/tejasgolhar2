@@ -47,24 +47,21 @@
 
 <br>
 
-<div align="left">
-
-<table>
-  <tr>
-    <td align="right">🔧</td>
-    <td align="left">&nbsp;Lifelong learner and hardware tinkerer</td>
-  </tr>
-  <tr>
-    <td align="right">🚀</td>
-    <td align="left">&nbsp;Currently exploring the boundaries of FPGA technology</td>
-  </tr>
-  <tr>
-    <td align="right">💻</td>
-    <td align="left">&nbsp;Visit my <a href="https://github.com/tejasgolhar2">GitHub</a> for projects and experiments</td>
-  </tr>
-</table>
-
+<div align="center" style="display:inline-block; text-align:left;">
+  <div style="display:flex; align-items:center; margin-bottom:6px;">
+    <span style="width:2em; text-align:right;">🔧</span>
+    <span>&nbsp;Lifelong learner and hardware tinkerer</span>
+  </div>
+  <div style="display:flex; align-items:center; margin-bottom:6px;">
+    <span style="width:2em; text-align:right;">🚀</span>
+    <span>&nbsp;Currently exploring the boundaries of FPGA technology</span>
+  </div>
+  <div style="display:flex; align-items:center;">
+    <span style="width:2em; text-align:right;">💻</span>
+    <span>&nbsp;Visit my <a href="https://github.com/tejasgolhar2">GitHub</a> for projects and experiments</span>
+  </div>
 </div>
+
 
 
 
