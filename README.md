@@ -75,7 +75,7 @@ Vivado Design Suite • Xilinx ISE • ModelSim • Intel Quartus Prime • Viti
 Xilinx XSim • Icarus Verilog • Verilator
 
 </div>
-
+<br>
 
 
 
@@ -98,7 +98,7 @@ Xilinx XSim • Icarus Verilog • Verilator
 </table>
 
 </div>
-
+<br>
 
 
 
