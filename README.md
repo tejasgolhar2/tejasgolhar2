@@ -116,7 +116,7 @@ Xilinx XSim • Icarus Verilog • Verilator
 </div>
 
 ---
-
+<!--
 <div align="center" style="margin:20px 0;">
   <img
     src="https://komarev.com/ghpvc/?username=tejasgolhar2&label=Profile%20Views&style=for-the-badge&color=441350&logo=star"
@@ -128,7 +128,7 @@ Xilinx XSim • Icarus Verilog • Verilator
 
 
 
-<!--
+
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasgolhar2&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" />
