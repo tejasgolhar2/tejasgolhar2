@@ -9,8 +9,9 @@
     style="margin-top: 200px;"
   >
 </div>
-
 -->
+
+<!-- Banner Image -->
 ![Tejas Golhar Banner](./processor.gif)
 
 
@@ -25,7 +26,7 @@
 </h1>
 
 
-<!-- Add spacing below the name/introduction line -->
+<!-- Introduction -->
 <br>
 
 *A passionate FPGA Design Engineer burning FPGAs to build a sustainable future*
@@ -60,10 +61,10 @@
 
 <br>
 
---- 
 
 
-## 🛠️ Tech Stack
+
+## 🛠️ Skills & Tools
 <div align="center">
 
 **Languages & HDLs**  
@@ -75,7 +76,8 @@ Xilinx XSim • Icarus Verilog • Verilator
 
 </div>
 
----
+
+
 
 ## 🚀 Highlight Projects
 <div align="center">
@@ -97,7 +99,9 @@ Xilinx XSim • Icarus Verilog • Verilator
 
 </div>
 
----
+
+
+
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -115,7 +119,7 @@ Xilinx XSim • Icarus Verilog • Verilator
 
 </div>
 
----
+
 <!--
 <div align="center" style="margin:20px 0;">
   <img
@@ -142,7 +146,10 @@ Xilinx XSim • Icarus Verilog • Verilator
 </div>
 -->
 
-## 🤝 Contacts
+
+
+
+## 🤝 Connect with me
 <div align="center">
 
 <p align="center">
@@ -165,8 +172,9 @@ Xilinx XSim • Icarus Verilog • Verilator
   </a>
 </p>
 
-
 </div>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
