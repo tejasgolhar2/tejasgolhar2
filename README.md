@@ -78,7 +78,6 @@ Xilinx XSim • Icarus Verilog • Verilator
 <br>
 
 
-
 ## 🚀 Highlight Projects
 <div align="center">
 
@@ -98,7 +97,6 @@ Xilinx XSim • Icarus Verilog • Verilator
 </table>
 
 </div>
-<br>
 
 
 
@@ -116,8 +114,6 @@ Xilinx XSim • Icarus Verilog • Verilator
     </td>
   </tr>
 </table>
-
-</div>
 
 
 <!--
