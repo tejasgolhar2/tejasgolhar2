@@ -110,10 +110,20 @@ Xilinx XSim • Icarus Verilog • Verilator
       <img src="https://github-readme-stats.vercel.app/api?username=tejasgolhar2&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs" />
     </td>
     <td width="48%">
-      <img src="https://streak-stats.demolab.com?user=tejasgolhar2&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" />
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tejasgolhar2&count_private=true&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&border_radius=10" />
     </td>
   </tr>
 </table>
+
+<br>
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tejasgolhar2&hide=HTML&langs_count=8&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
+
+
+
+
 
 
 <!--
