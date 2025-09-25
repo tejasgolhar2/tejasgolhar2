@@ -12,7 +12,7 @@
 -->
 
 <!-- Banner Image -->
-![Tejas Golhar Banner](./processor.gif)
+![Tejas Golhar Banner](./processor3.gif)
 
 
 ---
@@ -22,7 +22,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
        width="40"
        style="vertical-align:middle; margin-right:10px;">
-  I'm TEJAS!
+  Hii, I'm TEJAS!
 </h1>
 
 
