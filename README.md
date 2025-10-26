@@ -89,8 +89,8 @@ Xilinx XSim • Icarus Verilog • Verilator
       </a>
     </td>
     <td width="48%">
-      <a href="https://github.com/tejasgolhar2/Simple-Digital-Voltmeter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejasgolhar2&repo=Simple-Digital-Voltmeter&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" />
+      <a href="https://github.com/tejasgolhar2/Digital-Voltmeter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejasgolhar2&repo=Digital-Voltmeter&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" />
       </a>
     </td>
   </tr>
